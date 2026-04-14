@@ -1,0 +1,1 @@
+Proyecto actualizado con vídeo MP4 de fondo en el hero y formulario de solicitud de plaza integrado en una página propia (solicitud-plaza.html). El botón 'Solicitar plaza' abre ese formulario.
